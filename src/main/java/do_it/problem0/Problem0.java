@@ -1,4 +1,4 @@
-package do_it.promblem0;
+package do_it.problem0;
 
 import java.io.BufferedReader;
 import java.io.IOException;
